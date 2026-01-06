@@ -19,11 +19,11 @@ I have been on a journey to create top-tier quality software for over 9 years. I
 
 ***
 ### Let's Connect
-![Static Badge](https://img.shields.io/badge/The%20Quality%20Assurance%20Engineer-%2321759B?style=social&logo=wordpress&logoColor=%2321759B&labelColor=white&color=blue&link=https%3A%2F%2Ftheqae.com)
+[![The Quality Assurance Engineer](https://custom-icon-badges.demolab.com/badge/WordPress-21759B?logo=wordpress-white&logoColor=fff)](https://theqae.com)
 
-![Static Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=social&logo=linkedIn&logoColor=%230A66C2&labelColor=white&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fsanchezant%2F)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/sanchezant/)
 
-![Static Badge](https://img.shields.io/badge/medium-%23000000?style=social&logo=medium&logoColor=%23000000&labelColor=white&color=blue&link=https%3A%2F%2Ftheqae.medium.com%2F)
+[![medium](https://custom-icon-badges.demolab.com/badge/Medium-000000?logo=medium-white&logoColor=fff)](https://theqae.medium.com/)
 </div>
 <!--
 **theqae/theqae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
